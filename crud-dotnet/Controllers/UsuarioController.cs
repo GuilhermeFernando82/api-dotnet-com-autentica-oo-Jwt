@@ -45,7 +45,8 @@ namespace crud_dotnet.Controllers
         {
             var user = await _repository.Authentic(usuario.Name, usuario.Password);
             var token = TokenServices.GenerateToken(usuario);
-            return user != null ? Ok(token) : NotFound();
+            object[] itens = { user, token };
+            return user != null ? Ok(itens) : NotFound();
         }
         [HttpPut("{id}")]
         public async Task<IActionResult> Put(int id, Usuario usuario)

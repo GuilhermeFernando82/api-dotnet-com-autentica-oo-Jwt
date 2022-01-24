@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T8c2zqhEYcIbdPZFAZi6YaGQPDqN+jbTmpBXF9+l2gq5c0vpdQvYGMVwesVJLRvZ6Mna6D3mU4QUgG3tah9ftQ==",
+  "dgSpecHash": "yeH6OacvEhSanMTAq/ba0PLPlAp6q2+UhFVMth+lxysW3XXRdj1IycTvoFnBcB0a0AwwGz2FOLwYQVSKTXXOOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\treva\\OneDrive\\Área de Trabalho\\crud_dotnet-main\\crud_dotnet-main\\crud-dotnet\\crud-dotnet.csproj",
+  "projectFilePath": "C:\\Users\\treva\\OneDrive\\Área de Trabalho\\api-dotnet-com-autenticacao-Jwt-main\\api-dotnet-com-autenticacao-Jwt-main\\crud-dotnet\\crud-dotnet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\treva\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\treva\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
